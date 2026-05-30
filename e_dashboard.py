@@ -76,7 +76,7 @@ st.markdown("### Course Demand Prediction & Revenue Forecasting System")
 # =========================================================
 
 
-xlsx_path = r"C:\Users\HP\Downloads\EduPro Online Platform.xlsx"
+xlsx_path = r"EduPro Online Platform.xlsx"
 
 users_df = pd.read_excel(xlsx_path, sheet_name='Users')
 teachers_df = pd.read_excel(xlsx_path, sheet_name='Teachers')
