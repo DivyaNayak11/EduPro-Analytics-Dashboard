@@ -1,0 +1,25 @@
+feature,importance,target
+num__CoursePrice,0.9571461495808834,Enrollment Count
+cat__price_band_High,0.010880599101623688,Enrollment Count
+cat__CourseType_Free,0.0055733624534320195,Enrollment Count
+num__CourseDuration,0.004949013805655625,Enrollment Count
+cat__CourseCategory_Digital Marketing,0.003565434988989323,Enrollment Count
+num__CourseRating,0.003506713268372579,Enrollment Count
+cat__CourseType_Paid,0.00270809048951814,Enrollment Count
+cat__CourseCategory_Artificial Intelligence,0.00225397309022923,Enrollment Count
+cat__CourseCategory_Business,0.001959566117660241,Enrollment Count
+cat__CourseCategory_Project Management,0.0015452590462154629,Enrollment Count
+cat__CourseLevel_Advanced,0.001311040464315291,Enrollment Count
+cat__rating_tier_Low,0.0011355905737322459,Enrollment Count
+num__CoursePrice,22054.198102641338,Course Revenue
+cat__CourseCategory_Digital Marketing,2230.3817657700984,Course Revenue
+cat__CourseCategory_Data Science,1372.4619837990238,Course Revenue
+cat__CourseCategory_Artificial Intelligence,1218.4889198542962,Course Revenue
+cat__price_band_High,1111.2880425100138,Course Revenue
+cat__price_band_Low,762.4529664122264,Course Revenue
+cat__CourseCategory_Finance,730.5550925860807,Course Revenue
+cat__duration_bucket_Short,688.0379633512804,Course Revenue
+cat__CourseLevel_Beginner,652.7189441775718,Course Revenue
+cat__duration_bucket_Long,603.4571076724778,Course Revenue
+cat__CourseLevel_Intermediate,581.339352541481,Course Revenue
+cat__CourseType_Paid,568.6288156715351,Course Revenue
