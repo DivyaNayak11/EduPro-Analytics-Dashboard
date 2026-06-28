@@ -14,3 +14,6 @@ This report includes:
 -Key Findings
 -Model Performance
 -Strategic Recommendations
+
+## Dashboard Overview
+[Click to open] (EduPro_dashboard.png)
